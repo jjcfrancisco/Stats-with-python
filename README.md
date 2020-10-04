@@ -1,4 +1,4 @@
-# stats_python
+# Statistics in Python
 
 This repository will serve as a way to teach statistics in Python with simple examples from football data.
 
